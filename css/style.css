@@ -90,14 +90,14 @@ h5{
        top: 0;
        padding-top: 20px;
        padding-bottom: 20px;
-       background:#f7f7f7;
+       background:#ffffff;
    }
    @media (min-width: 768px){
        .nav{
            position: fixed;
            z-index: 100;
             height: 12vh;
-            background: #c2b0b0;
+            background: #ffffff;
             justify-content: space-around;
             flex-direction: row;
        }
