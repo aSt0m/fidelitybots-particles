@@ -48,22 +48,21 @@ h5{
 .text-center{
     text-align: center;
 }
-/* 
+ 
 .particles-js-canvas-el{
-    background: rgb(228, 9, 9);
+    background: rgb(99, 202, 139);
     
-} */
+} 
 #particles-js{
     height: 112vh; 
     width: 100%;
-    
     position: absolute; 
     z-index: -1;   
 }
 @media (min-width: 768px){
     #particles-js {
         height: 100vh;
-        display: flex;
+        
        
     }
 }
@@ -98,7 +97,7 @@ h5{
             height: 12vh;
             position: fixed;
             z-index: 100;
-            background: #F6F6F6;
+            background: #c2b0b0;
             justify-content: space-around;
             flex-direction: row;
        }
@@ -261,12 +260,10 @@ transition: 0.2s  0.1s;
     .container-header{
         height: 100%;
         flex-direction: row-reverse;
-        /* padding-top: 5rem; */
         align-items: center;
         justify-content: space-evenly;
         position: relative;
         z-index: 20;
-        /* border: 1px dashed red; */
     }
    .img-swiper{
 
