@@ -48,11 +48,11 @@ h5{
 .text-center{
     text-align: center;
 }
-
+/* 
 .particles-js-canvas-el{
     background: rgb(228, 9, 9);
     
-}
+} */
 #particles-js{
     height: 112vh; 
     width: 100%;
